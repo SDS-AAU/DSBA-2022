@@ -1,7 +1,7 @@
 ---
 title: Semester Schedule
 weight: 4
-draft: true
+draft: false
 ---
 
 ## M1: Week 36-38
@@ -30,18 +30,21 @@ draft: true
 * W 45: Neural Networks for sequential data: Recurrent Neural networks (RNN & LSTM)
 * W 46: Workshop & project work 
 
-
 ## Key Dates
 
-* In-person workshops on CBS campus (always Thursday + Friday)
+* In-person workshops on CBS campus (mostly Thursday + Friday)
    * 1: W38: Machine learning case studies
    * 2: W41: Advanced applications in Network and Text Analysis
    * 3: W46: Advanced applications & outlook in deep learning
-   
+
+<!---
+
 * Individual assignment (2 out of 3 need to be passed): 
    * 1: 24.-29.09.2021, 23:59:00 at the latest (Peergrade) 
    * 2: 15.-20.10.2021, 23:59:00 at the latest (Peergrade) 
    * 3: 19.-24.09.2021, 23:59:00 at the latest (Peergrade) 
    
 * Final exam: 15.12.2021
+
+--->
   
