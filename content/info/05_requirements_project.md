@@ -2,7 +2,8 @@
 title: Semester Project Requirements
 weight: 5
 chapter: false
-draft: false
+draft: true
+
 ---
 
 ## Format

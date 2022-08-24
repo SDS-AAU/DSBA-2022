@@ -1,9 +1,9 @@
 ---
-title: "Data Science for Business Applications 2021"
+title: "Data Science for Business Applications 2022"
 chapter: false
 ---
 
-# Data Science for Business Applications 2021
+# Data Science for Business Applications 2022
 
 ## CBS - Digi
 

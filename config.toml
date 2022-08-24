@@ -1,9 +1,9 @@
-baseURL = "https://sds-aau.github.io/DSBA-2021/"
+baseURL = "https://sds-aau.github.io/DSBA-2022/"
 staticDir = 'static'
 languageCode = "en-US"
 defaultContentLanguage = "en"
 
-title = "Social Data Science 2021"
+title = "Social Data Science 2022"
 theme = "hugo-theme-learn"
 themesdir = "themes"
 metaDataFormat = "yaml"
@@ -11,7 +11,7 @@ defaultContentLanguageInSubdir= true
 
 [params]
   # editURL = "https://github.com/SDS-AAU/SDS2021-test/tree/master/content"
-  description = "CBS Data Science for Business Applications 2021"
+  description = "CBS Data Science for Business Applications 2022"
   author = "Roman Jurowetzki & Daniel Hain"
   showVisitedLinks = true
   disableBreadcrumb = false

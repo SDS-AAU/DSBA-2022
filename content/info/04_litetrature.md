@@ -1,6 +1,7 @@
 ---
 title: Literature & Resources
 weight: 4
+draft: true
 ---
 
 While this course does not come with a list of mandatory readings, we will often refer to some central resources in R and python, which for the most part can always be accessed in a free and updated online version.  We generally recommend you to use these amazing resources for problem-solving and further self-study on the topic.
