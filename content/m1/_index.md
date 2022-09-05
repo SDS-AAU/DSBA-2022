@@ -33,6 +33,8 @@ Click on the **to do** for the week to see what you should do to keep up with th
       * [Foundation of probability](https://learn.datacamp.com/courses/foundations-of-probability-in-r); 
       * [Correlation and regression](https://learn.datacamp.com/courses/correlation-and-regression-in-r)
 - [X] **Course Material** (Watch videos, study/run notebooks, solve provided exercises, optimally study suggested further material)
+
+<!---
    * [Warmup]({{< ref "m1/01_warmup/_index.md" >}})
    * [Basics]({{< ref "m1/02_basics/01_stat_prog.md" >}})
    * [Data Manipulation]({{< ref "m1/02_basics/02_data_manipulation.md" >}})
@@ -57,6 +59,8 @@ Click on the **to do** for the week to see what you should do to keep up with th
 {{% /expand%}}
 
 * W 38: Workshop & project work 
+
+--->
 
 <!---
 ## Q&A Sessions
