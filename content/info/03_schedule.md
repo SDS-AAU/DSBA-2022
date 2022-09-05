@@ -37,14 +37,15 @@ draft: false
    * 2: W41: Advanced applications in Network and Text Analysis
    * 3: W46: Advanced applications & outlook in deep learning
 
-<!---
 
 * Individual assignment (2 out of 3 need to be passed): 
-   * 1: 24.-29.09.2021, 23:59:00 at the latest (Peergrade) 
-   * 2: 15.-20.10.2021, 23:59:00 at the latest (Peergrade) 
-   * 3: 19.-24.09.2021, 23:59:00 at the latest (Peergrade) 
+   * 1: 23.-28.09.2022, 23:59:00 at the latest (Peergrade) 
+   * 2: 14.-26.10.2022, 23:59:00 at the latest (Peergrade) 
+   * 3: 14.-16.11.2022, 23:59:00 at the latest (Peergrade) 
    
-* Final exam: 15.12.2021
+* Final exam (individual exam of group project)
+  * Hand-out: 18.11.2022
+  * Hand-in: 01.12.2021
+  * Final exam: 16.12.2021
 
---->
   
