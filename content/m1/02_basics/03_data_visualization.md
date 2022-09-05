@@ -3,7 +3,7 @@ title: "Basics Data Visualization"
 weight: 3
 disableToc: true
 chapter: false
-draft: true
+draft: false
 ---
 
 {{% notice tip %}} Use the tabs to access content. Theory part is general, R & Python application part language specific.
