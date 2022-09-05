@@ -16,4 +16,18 @@ draft: false
 
 ## Adittional Infrastructure used
 
-* [Github](https://github.com/) Provides internet hosting for software development and version control using Git. It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features. It is also commonly used to host open-source projects, including data science projects. If you do not have it already, you are advice to create an account to manage and showcase your work during this semester. A brief introduction into the main functionalists can be found [here](https://guides.github.com/activities/hello-world/).
+### Data Science Cloud services 
+
+* Collaborative coding and presentation
+   * [Github](https://github.com/) Provides internet hosting for software development and version control using Git. It offers the distributed version control and source code management (SCM) functionality of Git, plus its own features. It is also commonly used to host open-source projects, including data science projects. If you do not have it already, you are advice to create an account to manage and showcase your work during this semester. 
+* Cloud-based computational notebook:
+   * [Google Colab](https://colab.research.google.com): Googles popular service for editing, running & sharing Jupyter notebooks (Only Python Kernel, but R kernel can be accessed via some tricks). Has a pro version for some 10$ in case you need further ressources. You can also easily mount your google drive to directly acess your data.
+   * [Deepnote](https://deepnote.com): New popular online notebook service with good integration to other services (Python, R & more)
+   * [Kaggle](https://www.kaggle.com/): Also provides their own cloud-based service co create and run computational notebooks. Convenient, unlimited, but a bit slow (Pyhton, R ).
+
+
+## Getting started
+
+* Jupyter/Colab Intro [{{< awesome fas fa-laptop-code >}} Python Colab](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/colab-demo.ipynb)
+* [Github Hello World](https://guides.github.com/activities/hello-world/)
+* [The Markdown Guide](https://www.markdownguide.org/): Introduction to markdown, the formating language used in ipython notebooks.

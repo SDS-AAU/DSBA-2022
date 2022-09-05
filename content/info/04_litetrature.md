@@ -1,6 +1,7 @@
 ---
 title: Literature & Resources
 weight: 4
+chapter: false
 draft: false
 ---
 
@@ -20,7 +21,6 @@ These pieces of work can be seen as main references for data science using R and
 * Baumer, B., Kaplan, D. & Horton, N. (2020) Modern Data Science with R (2nd Ed.). CRC Press [Online available here](https://beanumber.github.io/mdsr2e/)
 * Kuhn, M., Silge, J. (2020) Tidy Modeling with R [Online available here](https://www.tmwr.org/)
 
-
 ## Supplementary literature
 
 ### R
@@ -32,19 +32,6 @@ These pieces of work can be seen as main references for data science using R and
 
 
 ## Further Ressources
-
-### Data Science Cloud services 
-
-* Notebook bases:
-   * [Google Colab](https://colab.research.google.com): Googles popular service for editing, running & sharing Jupyter notebooks (Only Python Kernel, but R kernel can be accessed via some tricks)
-   * [Deepnote](https://deepnote.com): New popular online notebook service with good integration to other services (Python, R & more)
-   * [Kaggle](https://www.kaggle.com/): Also provides their own cloud-based service co create and run computational notebooks. Convenient, unlimited, but a bit slow (Pyhton, R ).
-
-<!--- # TODO: Find something for CBS students
-* Instance based:
-   * [UCloud](https://cloud.sdu.dk): New cloud infrastructure provided by AAU, AU, SDU
-   * [AAU Strato](https://strato.claaudia.aau.dk/): AAU CLAUDIA infratructure. Very powerful, but access needs a bit of experience with working via terminal.
----> 
 
 ### Community
 

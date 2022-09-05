@@ -1,7 +1,8 @@
 ---
 title: Modules
 weight: 3
-draft: true
+chapter: false
+draft: false
 ---
 
 The course is structured in 3 modules.
