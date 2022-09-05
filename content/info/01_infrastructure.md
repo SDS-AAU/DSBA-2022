@@ -24,6 +24,8 @@ draft: false
    * [Google Colab](https://colab.research.google.com): Googles popular service for editing, running & sharing Jupyter notebooks (Only Python Kernel, but R kernel can be accessed via some tricks). Has a pro version for some 10$ in case you need further ressources. You can also easily mount your google drive to directly acess your data.
    * [Deepnote](https://deepnote.com): New popular online notebook service with good integration to other services (Python, R & more)
    * [Kaggle](https://www.kaggle.com/): Also provides their own cloud-based service co create and run computational notebooks. Convenient, unlimited, but a bit slow (Pyhton, R ).
+* Cloud-Computing
+  [UCLOUD](https://libguides.cbs.dk/c.php?g=659368&p=4654314&t=17973): DK university collaboration for HPC. Apparently, CBS is now also on board (untested)
 
 
 ## Getting started
