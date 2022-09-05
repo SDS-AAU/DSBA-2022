@@ -2,6 +2,8 @@
 title: "Supervised Machine Learning (SML)"
 weight: 2
 disableToc: true
+chapter: false
+draft: true
 ---
 
 {{% notice tip %}} Use the tabs to access content. Theory part is general, R & Python application part language specific.

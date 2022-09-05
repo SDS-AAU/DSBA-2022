@@ -2,6 +2,8 @@
 title: "Unsupervised Machine Learning (UML)"
 weight: 1
 disableToc: true
+chapter: false
+draft: true
 ---
 
 {{% notice tip %}} Use the tabs to access content. Theory part is general, R & Python application part language specific.

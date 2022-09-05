@@ -20,10 +20,10 @@ Click on the **to do** for the week to see what you should do to keep up with th
 * W 36: Data Manipulation, Exploratory Data Analysis (EDA), Data Visualization
 {{%expand "Weekly to do" %}}
 - [X] **Course Material** (Watch videos, study/run notebooks, solve provided exercises, optimally study suggested further material)
-   * [Warmup]({{< ref "m1/01_warmup/_index.md" >}})
-   * [Basics]({{< ref "m1/02_basics/01_stat_prog.md" >}})
-   * [Data Manipulation]({{< ref "m1/02_basics/02_data_manipulation.md" >}})
-   * [Data visualization]({{< ref "m1/02_basics/03_data_visualization.md" >}})
+   * M1:Warmup
+   * M1: Basics
+   * M1: Data MAnipulation
+   * M1: Data Visualizatiohj
 - [X] **Introduction to R & Python** (Datacamp, both necessary if no prior experience)
    * [Intro to Python](https://learn.datacamp.com/courses/intro-to-python-for-data-science) and/or 
    * [Intro to [R](https://learn.datacamp.com/courses/free-introduction-to-r)
@@ -40,6 +40,7 @@ Click on the **to do** for the week to see what you should do to keep up with th
       * [Correlation and regression](https://learn.datacamp.com/courses/correlation-and-regression-in-r)
     
 {{% /expand%}}
+
 
 * W 37: Unsupervised Machine Learning (UML), Supervised Machine Learning (SML)
 {{%expand "Weekly to do" %}}
