@@ -16,3 +16,5 @@ The corresponding canvas course page can be found [here](https://cbscanvas.instr
 
 
 [here]({{ ref . "m1/02_basics/01_stat_prog.md" }})
+
+[here]({{< ref "m1/02_basics/01_stat_prog.md" >}})
