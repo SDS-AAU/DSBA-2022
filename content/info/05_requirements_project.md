@@ -2,17 +2,17 @@
 title: Semester Project Requirements
 weight: 5
 chapter: false
-draft: true
+draft: false
 
 ---
 
 ## Format
 
-* Functional and self-contained notebook
-* Happy to see GitHub repos (which you can use as your portfolio in the job market)
 * Project report (30-ish pages - max. 45... depending on group size)
 * Some study relation (but that is debatable and not necessarily required)
-* Report is a (semi/non) technical documentation. Think about a corporate censor that you try to inform
+* Report is a (semi/non) technical documentation. Think about a corporate censor that you try to inform academia. Less (but some) theory, more application.
+* Also provide: Functional and self-contained notebook
+* Happy to see GitHub repos (which you can use as your portfolio in the job market)
 
 ## Content
 
@@ -33,4 +33,4 @@ draft: true
     * extract information from text data and create networks. Use network indicators to supplement company data
 * Evaluation will focus on correct application and communication of DS methods
 * The level of "technicality" is as in the course with emphasis on application and intuition, not on ML engineering / mathematics
-* However, you will need to demonstrate insight into statistics on a level that is required to discuss your assignment e.g. interpret and discuss performance indicators, outline strategies for improvement e.g. under/oversampling
+* However, you will need to demonstrate insight into statistics on a level that is required to discuss your assignment e.g. interpret and discuss performance indicators, outline strategies for improvement e.g. under/oversampling.

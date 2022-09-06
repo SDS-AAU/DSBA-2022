@@ -22,7 +22,7 @@ Click on the **to do** for the week to see what you should do to keep up with th
 - [X] **Course Material** (Watch videos, study/run notebooks, solve provided exercises, optimally study suggested further material)
    * M1: Warmup (not mandatory)
    * M1: Basics
-   * M1: Data Mnaipulation
+   * M1: Data Manipulation
    * M1: Data Visualizatioh
 - [X] **Introduction to R & Python** (Datacamp, at least one necessary if no prior experience)
    * [Intro to Python](https://learn.datacamp.com/courses/intro-to-python-for-data-science) and/or 
