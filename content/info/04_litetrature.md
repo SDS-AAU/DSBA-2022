@@ -36,6 +36,8 @@ These pieces of work can be seen as main references for data science using R and
 ### Community
 
 * [Kaggle](https://www.kaggle.com/): Crowdsourced data science challanges. Nowadays also provides a vivid community where you find datasets, notebooks for all kind of data science exercises. 
+* [Stackoverflow](https://stackoverflow.com/): Q&A community for coding issues. Most coding questions you could come up with have already been answered, or will be answered fast (if you ask right ;)).
+* [Danish Data Science Community](https://www.ddsc.io/): Community of Data Scientist here in DK. Go here for finding project partners, check whats thrending in Danish DS, and ask conceptual questions.
 
 ### Tools & Helpers
 
