@@ -20,24 +20,24 @@ Click on the **to do** for the week to see what you should do to keep up with th
 * W 36: Data Manipulation, Exploratory Data Analysis (EDA), Data Visualization
 {{%expand "Weekly to do" %}}
 - [X] **Course Material** (Watch videos, study/run notebooks, solve provided exercises, optimally study suggested further material)
-   * M1:Warmup
+   * M1: Warmup (not mandatory)
    * M1: Basics
-   * M1: Data MAnipulation
-   * M1: Data Visualizatiohj
-- [X] **Introduction to R & Python** (Datacamp, both necessary if no prior experience)
+   * M1: Data Mnaipulation
+   * M1: Data Visualizatioh
+- [X] **Introduction to R & Python** (Datacamp, at least one necessary if no prior experience)
    * [Intro to Python](https://learn.datacamp.com/courses/intro-to-python-for-data-science) and/or 
    * [Intro to [R](https://learn.datacamp.com/courses/free-introduction-to-r)
 - [X] **Statistics Refresher** (Datacamp, recommended if no prior statistics classes, choose either R or Python) 
    * General 
       * [Intyroduction to statistics (no coding)](https://app.datacamp.com/learn/courses/introduction-to-statistics)
    * Python
-      * [Statistical Thinking 1](https://learn.datacamp.com/courses/statistical-thinking-in-python-part-1) 
-      * [Statistical Thinking 2](https://learn.datacamp.com/courses/statistical-thinking-in-python-part-2)
-      * [Intro to linear modelling](https://learn.datacamp.com/courses/introduction-to-linear-modeling-in-python)
+      1. [Statistical Thinking 1](https://learn.datacamp.com/courses/statistical-thinking-in-python-part-1) 
+      2. [Statistical Thinking 2](https://learn.datacamp.com/courses/statistical-thinking-in-python-part-2)
+      3. [Intro to linear modelling](https://learn.datacamp.com/courses/introduction-to-linear-modeling-in-python)
    * R: 
-      * [Introduction to data in R](https://learn.datacamp.com/courses/introduction-to-data-in-r)
-      * [Foundation of probability](https://learn.datacamp.com/courses/foundations-of-probability-in-r); 
-      * [Correlation and regression](https://learn.datacamp.com/courses/correlation-and-regression-in-r)
+      1. [Introduction to data in R](https://learn.datacamp.com/courses/introduction-to-data-in-r)
+      2. [Foundation of probability](https://learn.datacamp.com/courses/foundations-of-probability-in-r); 
+      3. [Correlation and regression](https://learn.datacamp.com/courses/correlation-and-regression-in-r)
     
 {{% /expand%}}
 
