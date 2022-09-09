@@ -45,7 +45,8 @@ Click on the **to do** for the week to see what you should do to keep up with th
 * W 37: Unsupervised Machine Learning (UML), Supervised Machine Learning (SML)
 {{%expand "Weekly to do" %}}
 - [X] **Course Material** (Watch videos, study/run notebooks, solve provided exercises, optimally study suggested further material)
-   * comming soon.
+   * M1: Introduction to Unsupervised Machine Learning.
+   * M1: Introduction to supervised Machine Learning
 - [X] **Continue with Datacamp) **recommended but not mandatory)
    * Python
       * [UML](https://learn.datacamp.com/courses/unsupervised-learning-in-python) 
