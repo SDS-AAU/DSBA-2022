@@ -3,7 +3,7 @@ title: "Exercise 2 - UML with Pokemon"
 weight: 2
 disableToc: true
 chapter: false
-draft: true
+draft: false
 ---
 
 {{% notice tip %}} This is not an assignment, just a voluntary exercise for you to test if you grasp the concepts in the corresponding topics. It does not have to be handed in anywhere
@@ -26,10 +26,12 @@ The data is available through the URL: `https://sds-aau.github.io/SDS-master/00_
 6. Inspect the distribution of the variable `Type1` across clusters. Does the algorithm separate the different types of pokemon?
 7. Perform a cluster analysis on all numerical variables scaled and AFTER dimensionality reduction and visualize the first 2 principal components.
 8. Again, inspect the distribution of the variable “Type 1” across clusters, does it differ from the distribution before dimensionality reduction?
-     
+
+<!---   
 ## Solutions
 
 * R team [:::: HERE ::::](https://sds-aau.github.io/SDS-master/M1/Notebooks/assignments/assignment2_solution_r_pokemon.nb.html)
 * Py team [:::: HERE :::: - Includes also some SML](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/Notebooks/assignments/assignment2_solution_py_UML_SML.ipynb)
- 
+
+--->
  
