@@ -40,7 +40,9 @@ You are given 2 datasets from `https://nomadlist.com` - A community page for rem
 ## Solutions
 
 * R team [:::: HERE ::::](https://sds-aau.github.io/SDS-master/M1/Notebooks/assignments/assignment1_solution_r_nomads.nb.html)
-* Py team (coming...I know I'm late)
+* Py team [:::: HERE ::::](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M1/Notebooks/assignments/assignment1-solution-py-nomads.ipynb)
+
+
      
 
  
