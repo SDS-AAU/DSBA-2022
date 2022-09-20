@@ -3,7 +3,7 @@ title: Workshops
 weight: 9
 disableToc: true
 chapter: false
-draft: true
+draft: false
 ---
 
 Our first round of live workshops. For details, see the individual days.
