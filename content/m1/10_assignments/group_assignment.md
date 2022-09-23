@@ -3,7 +3,7 @@ title: "M1 (Mandatory) Assignment"
 weight: 3
 disableToc: true
 chapter: false
-draft: true
+draft: false
 ---
 
 ## DSBA 2021 - M1: (Mandatory) Assignment
