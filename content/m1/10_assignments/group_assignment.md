@@ -6,7 +6,7 @@ chapter: false
 draft: false
 ---
 
-## DSBA 2021 - M1: (Mandatory) Assignment
+## DSBA 2022 - M1: (Mandatory) Assignment
 
 ## Introduction
 
@@ -45,7 +45,7 @@ If you instead want to collect your data (e.g. scraping Twitter or other platfor
 
 ### Analysis pipeline
 
-The analysis to be carried out by you has to contain elements of data **manipulation, exploration, unsupervised and supervised ML.** 
+The analysis to be carried out by you has to contain elements of data **manipulation, exploration and supervised ML (unsupervised is optional).** 
 
 Generally, you can combine parts from the individual assignments and use them as a template for the module assignment. Going beyond that is not required (but for sure appreciated). Below a (rather detailed) checklist to make sure you have all the pieces.  
 - Definition of a problem statement and a short outline of the implementation  
@@ -83,10 +83,14 @@ You are asked to hand in a **well commented functional computational notebook**
 
 The notebook targets a machine-learning literate audience. Here you can go deeper into the technical details and method considerations. Provide thorough documentation of the whole process, the used methods. Describe the intuition behind the selected and used methods, justify choices made, and interpret results (e.g. Why scaling? Why splitting the data? Why certain tabulations and visualizations? What can be seen from ... ?, How did you select a particular algorithm? Why did you scale features in one way or another?).  
 
-Please provide the notebook as a PDF.
-
 
 ## Finally
+Submission: **28.09, 23:59**
+
+<!-- 
+
+
+
 
 -  Submission deadline is **28.09, 23:59** - on peergrade (class code: N8A46K)
 -  Peer Feedback deadline is **04.10, 23:59** - Provide constructive comments as you would like to recieve them
@@ -96,3 +100,5 @@ Please provide the notebook as a PDF.
 ## Getting good looking PDFs from jupyter notebooks
 
 {{< loom  9d1add222dbb4ec6a6fe91d197eaf7db >}}
+
+-- >
