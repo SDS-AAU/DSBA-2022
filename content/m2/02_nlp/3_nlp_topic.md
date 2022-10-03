@@ -3,7 +3,7 @@
 title: "Application: Vectorization and Topic Modelling"
 weight: 4
 disableToc: true
-draft: true
+draft: false
 ---
 
 

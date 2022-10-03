@@ -2,7 +2,7 @@
 title: "Exercise 1 - Network Analysis"
 weight: 1
 disableToc: true
-draft: true
+draft: false
 ---
 
 ## Introduction

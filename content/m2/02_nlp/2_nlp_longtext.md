@@ -2,7 +2,7 @@
 title: "Application: Working with long text"
 weight: 3
 disableToc: true
-draft: true
+draft: false
 ---
 
 ## Working with long text and extracting text elements

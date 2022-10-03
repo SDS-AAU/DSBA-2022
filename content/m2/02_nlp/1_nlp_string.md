@@ -2,7 +2,7 @@
 title: "Application: String Manipulation"
 weight: 2
 disableToc: true
-draft: true
+draft: false
 ---
 
 {{% notice note %}} Use the tabs to access content. Theory part is general, R & Python application part language specific.
