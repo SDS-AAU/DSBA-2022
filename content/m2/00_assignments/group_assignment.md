@@ -11,7 +11,7 @@ draft: true
 
 Now it is time to bring most these steps together and apply them to a setting that you find interesting. This should apply the following tasks. 
 
-- Identify an interesting problem that can be tackled using netork analysis and NLP techniques. 
+- Identify an interesting problem that can be tackled using network analysis and NLP techniques. 
 - Optimally, this is done within one dataset. However, the assignment can also be done using 2 different datasets, if nothing suitable combinging both elements of netork analysis and NLP is found.
 - Select and obtain relevant data to do so. 
 - Clean and manipulate the data to make it useful for network analysis and NLP techniques. 
