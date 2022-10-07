@@ -2,7 +2,7 @@
 title: "Exercise t 2 - NLP"
 weight: 2
 disableToc: true
-draft: true
+draft: false
 
 ---
 
