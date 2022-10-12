@@ -1,24 +1,40 @@
 ---
-title: Day 1 - Networks
+title: Day 1 - NLP
 weight: 1
 disableToc: true
-draft: true
+draft: false
 ---
 
 ## Practical info
-Place: DHØ 1.23
-Time: 8:15 (we start 15 min later) - 13:20
+Place: DHØ 1.52
+Time: 11:40
 
 
 ## Schedule for the day
 
-|           | Time        | Activity        | Data           |
-|-----------|-------------|-----------------|----------------|
-| Session 1 | 8:15-9:00   | Intro , Q\&A, Introducing dataset | [Danish power elites](https://openpolicing.stanford.edu/)  |
-| Session 2 | 9:00-11:30 | Network exploration | [Danish power elites](https://openpolicing.stanford.edu/) |
-| Session 3 | 12:00-13:15 | WS: AI as a service  | |
+* Session 1: Review Hate-speech classifier
+* Session 2: Work on NLP case in groups
+* Session 3 - 15:00-16:00: Guest Webinar - AI Implementations in SMEs (in collaboration with AI Denmark and AI 4 The People)
 
-## Dataset & Context
+
+### Context - Exercise: Presidential Debate 2020
+
+
+Yes, we are going back in time to the Presidential Debate in the US 2020 - the time of lots of unhappy Tweeting. It's just too good a dataset and case to let it go...
+
+![](https://ichef.bbci.co.uk/news/800/cpsprodpb/E505/production/_114692685_uspresidentialdebate2020timedonaldtrumpandjoebiden.jpg)
+
+### Data
+
+* Political tweets: `https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/pol_tweets.gz` from https://github.com/alexlitel/congresstweets We've preprocessed a bit to make things easier. 1: Dems. 0: Rep.
+
+* Tweets around the time of the debate in oktober 20 (8000): `https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/pres_debate_2020.gz`
+
+Both datasets are in JSON format.
+Task: Build a classifier that can distinguish Dem/Rep tweets. Bonus: 1. Explore discussed topics; 2. find out what drives predictions.
+
+
+<!---
 
 ### Introduction 
 
@@ -80,7 +96,7 @@ To get most of this workshop, you should have:
 - [Slides](https://github.com/SDS-AAU/DSBA-2021/raw/master/static/notebooks/DSBA%20presentation.pdf)
 
 
-<!---
+
 {{< tabs >}}
 
 {{< tab name="Joint recordings">}}
