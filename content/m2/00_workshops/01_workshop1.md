@@ -12,7 +12,7 @@ Time: 11:40
 
 ## Schedule for the day
 
-* Session 1: Review Hate-speech classifier
+* Session 1: Review Hate-speech classifier [Notebook](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2-hatespeech-nlp-explainer-tm.ipynb)
 * Session 2: Work on NLP case in groups
 * Session 3 - 15:00-16:00: Guest Webinar - AI Implementations in SMEs (in collaboration with AI Denmark and AI 4 The People)
 
