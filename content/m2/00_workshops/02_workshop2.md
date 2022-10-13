@@ -25,6 +25,14 @@ Time: 8:15 - 13:20
 
 ### Danish Power Elites
 
+![](https://source.unsplash.com/GWe0dlVD9e0)
+
+> Many people dream of being one of them, but only few make it all the way to the top. According to two CBS researchers, it takes more than just hard work to get to the top of the Danish hierarchy of power. [read more](https://www.cbs.dk/en/alumni/news/a-look-the-danish-power-elite)
+
+In this project we are going to construct and explore a network of Danish power elites derived from boards of various organisations in th country.
+We will construct an association network: Who is being in the same board? And first explore "basic" centrality indicators. Then identify communities and central persons within those. Finally we look at some "fancier" interactive network visualisation.
+
+
 #### Context: The Danish Power Elites
 
 * [Antons PhD Thesis](https://magtelite.dk/wp-content/uploads/2015/09/Anton-Grau-Larsen-PhD-Elites-in-Denmark.pdf)
@@ -45,8 +53,10 @@ Time: 8:15 - 13:20
 * What characterizes them?
 * Link up with additional data?
 
-<!---
-# Notebooks
+## Notebooks
 
+* [Magteliten Analysis](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_power_elites.ipynb)
+
+<!---
 --->
 
