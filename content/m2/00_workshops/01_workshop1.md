@@ -33,6 +33,10 @@ Yes, we are going back in time to the Presidential Debate in the US 2020 - the t
 Both datasets are in JSON format.
 Task: Build a classifier that can distinguish Dem/Rep tweets. Bonus: 1. Explore discussed topics; 2. find out what drives predictions.
 
+## In class Notebooks
+
+* [R Starter Code](https://sds-aau.github.io/DSBA-2022/notebooks/NLP_workshop_1_debate_tweets_starter.nb.html)
+
 
 <!---
 
