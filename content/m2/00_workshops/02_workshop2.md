@@ -46,13 +46,10 @@ Both datasets are in JSON format.
 
 
 
-<!---
+
 ## In class Notebooks
 
-* R team [:::: HERE ::::](xxx)
-
-* Python team [:::: HERE ::::](xxx)
---->
+* [R Starter Code](https://sds-aau.github.io/DSBA-2022/notebooks/NLP_workshop_1_debate_tweets_starter.nb.html)
 
 <!---
 * [{{< awesome fas fa-laptop-code >}} Py Colab - With comments](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/exercises/M2_W1_Elites.ipynb
