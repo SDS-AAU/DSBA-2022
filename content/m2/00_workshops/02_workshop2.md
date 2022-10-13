@@ -53,10 +53,13 @@ We will construct an association network: Who is being in the same board? And fi
 * What characterizes them?
 * Link up with additional data?
 
+
 ## Notebooks
 
-* [Magteliten Analysis](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_power_elites.ipynb)
+* [Starter EU AI companies](https://colab.research.google.com/github/SDS-AAU/DSBA-2022/blob/master/notebooks/M2_mapping_european_ai.ipynb)
 
 <!---
+* [Magteliten Analysis](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_power_elites.ipynb)
+
 --->
 
