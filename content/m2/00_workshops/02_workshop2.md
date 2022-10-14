@@ -14,7 +14,7 @@ Time: 8:15 - 13:20
 
 |           | Time        | Activity        | Data           |
 |-----------|-------------|-----------------|----------------|
-| Session 1 | 8:15-8:45   | Review Political Tweets  |  |
+| Session 1 | 8:15-8:45   | Review Political Tweets  |[Possible Solution](https://colab.research.google.com/github/SDS-AAU/DSBA-2021/blob/master/static/notebooks/DSBA21_M2W2.ipynb)  |
 |           | 8:45-9:15   | Review Network Exercise  |  |
 | Session 2 | 9:25-10:50  | Network exploration | [Danish power elites](https://github.com/SDS-AAU/SDS-master/raw/master/00_data/networks/elite_den17.csv) |
 | Session 3 | 11:00-12:00  | European AI Companies|  |
