@@ -9,25 +9,41 @@ draft: true
 
 ## Introduction
 
-Now it is time to bring most these steps together and apply them to a setting that you find interesting. This should apply the following tasks. 
+Now it is time to bring most these steps together and apply them to a **challenging** setting. We expect you to get frustrated and learn from it 😅. Don't give up too early.
 
-- Identify an interesting problem that can be tackled using network analysis and NLP techniques. 
-- Optimally, this is done within one dataset. However, the assignment can also be done using 2 different datasets, if nothing suitable combinging both elements of netork analysis and NLP is found.
-- Select and obtain relevant data to do so. 
-- Clean and manipulate the data to make it useful for network analysis and NLP techniques. 
-- Execute an analysis containing elements of network analysis and NLP you have been exposed to (... or beyond)
-- Document your workflow in a reconstructable manner. 
-- Report your findings in an accessible manner. 
+You get a real-world dataset form a job-search platform. 
+> https://github.com/aaubs/ds-master/raw/main/data/Job_search.zip
+
+There are 4 dataframes in this dataset.
+- `jobs.csv`: detailed data about the job listings. title, description, location, etc.
+- `user_work_interest.csv`: self-identified interests of the users
+- `user_past_experience.csv`: previous work experience of the platform users
+- `user_job_views.csv`: "traffic data" users looking at jobs (implicit interest expression)
 
 
 ## Task description
 
-You have the choice between two different assignments:
+1. Data augmentation: Use NLP techniques to create categories for the diffrent positions (these are only free-text at the moment) and create a consistant industry column. Impute (predict) the education requirements for all jobs.
 
-1. Find and select datasets on your own, and perform an interesting and informative analysis using the elements stated above on your own.
-2. Solve both exercise 1 and 2 separately, using the corresponding dataset and following the stated tasks accordingly.
+2. Use a 2-mode network approach based on the "traffic-data" to create job recommendation. Example:
+    - create a network user_id - job_id
+    - project to user_id
+    - recommend to user_i what user_y also looked at if they are close to each other e.g. 1 jump away (and job is in the same city, state, fits user_i past experience, fits user_j interests...)
+    
+#### Computational Notebook
+
+The notebook targets a machine-learning literate audience. Here you can go deeper into the technical details and method considerations. Provide thorough documentation of the whole process, the used methods. Describe the intuition behind the selected and used methods, justify choices made, and interpret results.
+
+Please provide the notebook as a PDF.
 
 
+## Finally
+
+-  Submission deadline is **18.10, 23:59** - on peergrade (class code: N8A46K)
+-  Peer Feedback deadline is **24.10, 23:59** - Provide constructive comments as you would like to recieve them
+-  In case of trouble/issues/questions, please write on Teams.
+
+<!-- 
 ### Data & Problem identification (for option 1.)
 
 **NOTE: Follow this if you choose option 1 and ant to work with own data. Otherwise, follow the tasks of M2 exercise 1 and 2**
@@ -114,4 +130,4 @@ Please provide the notebook as a PDF.
 -  Peer Feedback deadline is **25.10, 23:59** - Provide constructive comments as you would like to recieve them
 -  In case of trouble/issues/questions, please write on Teams.
 
-
+-->
