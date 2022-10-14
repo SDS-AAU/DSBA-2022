@@ -39,8 +39,8 @@ Please provide the notebook as a PDF.
 
 ## Finally
 
--  Submission deadline is **18.10, 23:59** - on peergrade (class code: N8A46K)
--  Peer Feedback deadline is **24.10, 23:59** - Provide constructive comments as you would like to recieve them
+-  Submission deadline is **26.10, 23:59** - on peergrade (class code: N8A46K)
+-  Peer Feedback deadline is **1.11, 23:59** - Provide constructive comments as you would like to recieve them
 -  In case of trouble/issues/questions, please write on Teams.
 
 <!-- 
