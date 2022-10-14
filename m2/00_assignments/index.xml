@@ -2,4 +2,8 @@
 You are given a collection of approximately 25k tweets that have been manually (human) annotated. class denotes: 0 - hate speech, 1 - offensive language, 2 - neither
 https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/twitter_hate.zip
 1. Preprocessing and vectorizaion. Justify your choices and explain possible alternatives (e.g. removing stopwords, identifying bi/tri-grams, removing verbs or use of stemming, lemmatization etc.)
-Create a bag-of-words representation, apply TF-IDF and dimensionality reduction (LSA-topic modelling alternatively simply PCA or SVD) to transform your corpus into a feature matrix.</description></item></channel></rss>
+Create a bag-of-words representation, apply TF-IDF and dimensionality reduction (LSA-topic modelling alternatively simply PCA or SVD) to transform your corpus into a feature matrix.</description></item><item><title>M2 (Mandatory) Assignment</title><link>https://sds-aau.github.io/DSBA-2022/m2/00_assignments/group_assignment/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://sds-aau.github.io/DSBA-2022/m2/00_assignments/group_assignment/</guid><description>DSBA 2022 - M2: (Mandatory) Assignment Introduction Now it is time to bring most these steps together and apply them to a challenging setting. We expect you to get frustrated and learn from it 😅. Don&amp;rsquo;t give up too early.
+You get a real-world dataset form a job-search platform.
+https://github.com/aaubs/ds-master/raw/main/data/Job_search.zip
+There are 4 dataframes in this dataset.
+jobs.csv: detailed data about the job listings. title, description, location, etc. user_work_interest.csv: self-identified interests of the users user_past_experience.</description></item></channel></rss>
