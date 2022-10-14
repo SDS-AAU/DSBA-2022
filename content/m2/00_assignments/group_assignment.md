@@ -20,10 +20,12 @@ There are 4 dataframes in this dataset.
 - `user_past_experience.csv`: previous work experience of the platform users
 - `user_job_views.csv`: "traffic data" users looking at jobs (implicit interest expression)
 
-
 ## Task description
 
-1. Data augmentation: Use NLP techniques to create categories for the diffrent positions (these are only free-text at the moment) and create a consistant industry column. Impute (predict) the education requirements for all jobs.
+1. Data augmentation: Use NLP techniques to create categories for the different positions (these are only free-text at the moment) and create a consistent industry column. Impute (predict) the education requirements for all jobs. You can use different strategies to create larger labels for the freetext, including (but not limitd to):
+- Hand labeling of several jobs, and use these to predict for the remaining labels.
+- Do a topic modeling on the job description, and label them with the topic most associated.
+- Do something else... (eg. cluster job descriptions by TFIDF-weighted DTM...)
 
 2. Use a 2-mode network approach based on the "traffic-data" to create job recommendation. Example:
     - create a network user_id - job_id
@@ -34,8 +36,9 @@ There are 4 dataframes in this dataset.
 
 The notebook targets a machine-learning literate audience. Here you can go deeper into the technical details and method considerations. Provide thorough documentation of the whole process, the used methods. Describe the intuition behind the selected and used methods, justify choices made, and interpret results.
 
-Please provide the notebook as a PDF.
-
+Please provide the notebook as: 
+  * a PDF(main upload, unzipped)
+  * a ipython notebook (additional zipped)
 
 ## Finally
 
