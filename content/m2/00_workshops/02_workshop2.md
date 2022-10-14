@@ -57,6 +57,9 @@ We will construct an association network: Who is being in the same board? And fi
 ## Notebooks
 
 * [Starter EU AI companies](https://colab.research.google.com/github/SDS-AAU/DSBA-2022/blob/master/notebooks/M2_mapping_european_ai.ipynb)
-* [Magteliten Analysis](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_power_elites.ipynb)
+* [Python Magteliten Analysis](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M2_power_elites.ipynb)
+* [Python Magteliten Analysis](https://sds-aau.github.io/DSBA-2021/notebooks/M2_workshop_networks_R.nb.html)
+
+
 
 
