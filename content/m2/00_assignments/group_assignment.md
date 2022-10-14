@@ -2,10 +2,10 @@
 title: "M2 (Mandatory) Assignment"
 weight: 4
 disableToc: true
-draft: true
+draft: false
 ---
 
-## DSBA 2021 - M2: (Mandatory) Assignment
+## DSBA 2022 - M2: (Mandatory) Assignment
 
 ## Introduction
 
