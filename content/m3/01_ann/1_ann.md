@@ -18,7 +18,7 @@ This session introduces to artificial neural networks (ANN) and Deep Learning (D
 {{< tabs >}}
 
 {{< tab name="Theory: Neural Networks and Deep Learning">}}
-  <!--- <h2>Video 1: Introduction and history of ANNs</h2>
+  <h2>Video 1: Introduction and history of ANNs</h2>
   {{< loom  418cea49ec694fe4b42e99088bfdbb84 >}}
   
   <h2>Video 2: Building blocks and architecture of ANNs</h2>
@@ -26,7 +26,6 @@ This session introduces to artificial neural networks (ANN) and Deep Learning (D
   
   <h2>Video 3: Learning in ANNs</h2>
   {{< loom  308fc2d29d6840c19abce61d8f5eec31 >}}
-  --->
   
   <h2>Slides</h2>  
   Use arrows keys on keyboard to navigate. Fullscreen slides <a href="https://sds-aau.github.io/SDS-master/M3/notebooks/ANN_intro.html" target="_blank">available here (part I)</a> and <a href="https://sds-aau.github.io/SDS-master/M3/notebooks/ANN_learning.html" target="_blank">here (part II)</a>
