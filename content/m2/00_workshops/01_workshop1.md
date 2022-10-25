@@ -36,6 +36,7 @@ Task: Build a classifier that can distinguish Dem/Rep tweets. Bonus: 1. Explore 
 ## In class Notebooks
 
 * [R Solution](https://sds-aau.github.io/DSBA-2022/notebooks/NLP_workshop_1_debate_tweets.nb.html)
+* [Python Solution](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/DSBA_M2_W2_NLP_Tweets.ipynb)
 
 <!---
 
