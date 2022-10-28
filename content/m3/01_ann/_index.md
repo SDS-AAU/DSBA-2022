@@ -1,6 +1,6 @@
 ---
 title: Introduction to Neural Networks
-weight: 3
+weight: 1
 disableToc: true
 draft: false
 ---
