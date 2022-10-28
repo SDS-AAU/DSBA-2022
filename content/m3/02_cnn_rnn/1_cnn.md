@@ -2,6 +2,7 @@
 title: "Convolutional Neural Networks"
 weight: 1
 disableToc: true
+draft: false
 ---
 
 {{% notice tip %}} Use the tabs to access content. Theory part is general, R & Python application part language specific.
