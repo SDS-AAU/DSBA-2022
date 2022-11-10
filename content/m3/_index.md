@@ -30,6 +30,7 @@ Click on the **to do** for the week to see what you should do to keep up with th
 * Image Processing with Keras in Python
 * Recurrent Neural Networks for Language Modeling in Python
 * Advanced Deep Learning with Keras
+* NEW: Deep Learning with PyTorch
 
 ### Additional:
 
