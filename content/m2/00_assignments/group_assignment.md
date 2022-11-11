@@ -48,6 +48,7 @@ Please provide the notebook as:
 
 ## Solutions
 
+- [Student Solution 1](https://colab.research.google.com/github/SDS-AAU/DSBA-2022/blob/master/static/notebooks/M2_assignment_example1.ipynb)
 - [Student Solution 2](https://colab.research.google.com/github/SDS-AAU/DSBA-2022/blob/master/static/notebooks/M2_assignment_example2.ipynb)
 
 <!-- 
