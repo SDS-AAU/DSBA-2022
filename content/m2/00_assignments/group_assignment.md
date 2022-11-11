@@ -133,4 +133,7 @@ Please provide the notebook as a PDF.
 -  Peer Feedback deadline is **25.10, 23:59** - Provide constructive comments as you would like to recieve them
 -  In case of trouble/issues/questions, please write on Teams.
 
--->
+
+## Solutions
+
+- [Student Solution 2](https://colab.research.google.com/github/SDS-AAU/DSBA-2022/blob/master/static/notebooks/M2_assignment_example2.ipynb)
