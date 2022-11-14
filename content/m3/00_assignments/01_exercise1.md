@@ -2,6 +2,7 @@
 title: "M3: Mandatory Assignment"
 weight: 3
 disableToc: true
+draft: false
 ---
 
 ![](/SDS-2021/images/elon.jpg)
