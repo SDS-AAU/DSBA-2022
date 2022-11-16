@@ -9,13 +9,13 @@ draft: false
 Place: SP 213
 Time: 11:40
 
-
+We will be exploring 
 
 ## Schedule for the day
 
 | Time         | Activity                                       | 
 |--------------|------------------------------------------------|
-|  8:00- 9:15  | SBERT & Huggingface Intro                      |
+|  8:00- 9:15  | SBERT & Huggingface 🤗 Intro                   |
 |  9:30-10:15  | Finetuning Transformers                        |
 | 11:30-12:00  | Lunch                                          |
 | 12:00-12:45  | Assignment Idea Pitch                          |

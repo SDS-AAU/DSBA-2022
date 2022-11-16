@@ -15,15 +15,13 @@ We will be looking at LSTMs and financial forecasting. There will be also space 
 
 ## Schedule for the day
 
-| Time        | Activity                                          |
-|-------------|---------------------------------------------------|
-|  9:50-10.50 | Recap ANN                                         |
-| 11:00-12:00 | Intro Timeseries Forecast                         |
-| 12:00-12:30 | Lunch                                             |
-| 12:30-13:00 | Meet former graduates - Data Science in Industry  |
-| 13:00-14:10|  LSTM stock prediction                             |
-| 14:00-15:00|  Intro Temporal Fusion Transformers                |
-| 15:00-15:10|  Wrapping up the day                               |
+| Time        | Activity                 | Material |
+|-------------|--------------------------|----------|
+| 9:50-10.50  | Recap ANN                | [Notebook](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_W1_ann_AirBnb.ipynb) |
+| 11:00-12:00 | LSTM stock prediction I  | [Notebook](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_LSTM_stock_prediction.ipynb) |
+| 12:00-12:30 | Lunch                    |          |
+| 12:30-13:45 | Assignment Idea Pitch    |          |
+| 13:45-15:10 | LSTM stock prediction II | Notebook |
 
 
 
