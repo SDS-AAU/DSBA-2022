@@ -1,5 +1,5 @@
 ---
-title: Day 1 - Predicting Sequences with Neural Nets
+title: Day 1 - Time Series Prediction
 weight: 1
 disableToc: true
 draft: false

@@ -1,5 +1,5 @@
 ---
-title: Day 2 - Outlook, Assignment feedback, Guest Lectured
+title: Day 2 - NLP, Ecosystem, SOTA, Outlook
 weight: 2
 disableToc: true
 draft: false
