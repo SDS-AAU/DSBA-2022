@@ -2,11 +2,11 @@
 title: Day 1 - Predicting Sequences with Neural Nets
 weight: 1
 disableToc: true
-draft: true
+draft: false
 ---
 
 ## Practical info
-Place: Ovnhallen
+Place: PH Ovnhallen
 Time: 09:50 - 15.10
 
 ![](https://source.unsplash.com/ZzOa5G8hSPI)
@@ -15,14 +15,19 @@ We will be looking at LSTMs and financial forecasting. There will be also space 
 
 ## Schedule for the day
 
-| Time        | Activity              |
-|-------------|-----------------------|
-|  9:50-10.50 | Recap ANN             |
-| 11:00-12:00 | LSTM stock prediction I |
-| 12:00-12:30 | Lunch                 |
-| 12:30-13:45 | Assignment Idea Pitch |
-| 13:45-15:10|  LSTM stock prediction II |
+| Time        | Activity                                          |
+|-------------|---------------------------------------------------|
+|  9:50-10.50 | Recap ANN                                         |
+| 11:00-12:00 | Intro Timeseries Forecast                         |
+| 12:00-12:30 | Lunch                                             |
+| 12:30-13:00 | Meet former graduates - Data Science in Industry  |
+| 13:00-14:10|  LSTM stock prediction                             |
+| 14:00-15:00|  Intro Temporal Fusion Transformers                |
+| 15:00-15:10|  Wrapping up the day                               |
 
+
+
+<!---
 ## Context and Data
 We will start the day with a quick recap of the AirBnb assignment. After that we will look at how LSTMs can be used to predict sequences (financial data). We will pull data from Yahoo Finance using data-libraries rather than hosted files. If you want to work with "more professional" data, you will have to get it on your own.
 
@@ -34,7 +39,7 @@ Build an LSTM net that looks n timesteps back to predict the next period
 
 ### 3. Extend to multi-step and multi-feature
 Build an LSTM that uses several inputs (e.g. other stocks or TA features)
-
+--->
 
 <!---
 {{< tabs >}}

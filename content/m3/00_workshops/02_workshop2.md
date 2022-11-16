@@ -2,7 +2,7 @@
 title: Day 2 - Outlook, Assignment feedback, Guest Lectured
 weight: 2
 disableToc: true
-draft: true
+draft: felse
 ---
 
 ## Practical info
@@ -17,11 +17,9 @@ Time: 11:40
 |--------------|------------------------------------------------|
 |  8:00- 9:15  | SBERT & Huggingface Intro                      |
 |  9:30-10:15  | Finetuning Transformers                        |
-| 10:30-11:30  | Introduction Graph Neural Networks             |
 | 11:30-12:00  | Lunch                                          |
-| 12:00-12:30  | Assignment Idea Pitch                          |
-| 12:30-13:00  | Meet former graduates - Data Science in Industry |
-| 13:00-13:20  | Outlook / Wrapping up                         |
+| 12:00-12:45  | Assignment Idea Pitch                          |
+| 13:00-13:20  | Outlook / Wrapping up                          |
 
 
 
