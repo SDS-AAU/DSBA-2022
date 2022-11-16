@@ -2,7 +2,7 @@
 title: Day 2 - Outlook, Assignment feedback, Guest Lectured
 weight: 2
 disableToc: true
-draft: felse
+draft: false
 ---
 
 ## Practical info
@@ -13,16 +13,13 @@ Time: 11:40
 
 ## Schedule for the day
 
-| Time         | Activity                                       |
+| Time         | Activity                                       | 
 |--------------|------------------------------------------------|
 |  8:00- 9:15  | SBERT & Huggingface Intro                      |
 |  9:30-10:15  | Finetuning Transformers                        |
 | 11:30-12:00  | Lunch                                          |
 | 12:00-12:45  | Assignment Idea Pitch                          |
 | 13:00-13:20  | Outlook / Wrapping up                          |
-
-
-
 
 
 
