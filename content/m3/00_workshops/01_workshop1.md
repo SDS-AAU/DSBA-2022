@@ -11,7 +11,7 @@ Time: 09:50 - 15.10
 
 ![](https://source.unsplash.com/ZzOa5G8hSPI)
 
-We will be looking at LSTMs and financial forecasting. There will be also space for you to pitch assignment ideas and receive feedback.
+We will be looking at time series forecasting, and lateron explore deep learning approaches to it, such as LSTMs and more recently transformers.
 
 ## Schedule for the day
 

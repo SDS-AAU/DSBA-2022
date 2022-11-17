@@ -9,7 +9,7 @@ draft: false
 Place: SP 213
 Time: 11:40
 
-We will be exploring 
+We will continue exploring different types of transformer models, as well as the current ecosystem to load and train them (Huggingface)
 
 ## Schedule for the day
 
