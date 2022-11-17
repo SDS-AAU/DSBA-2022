@@ -17,6 +17,7 @@ We will continue exploring different types of transformer models, as well as the
 |--------------|------------------------------------------------|
 |  8:00- 9:15  | SBERT & Huggingface 🤗 Intro                   |
 |  9:30-10:15  | Finetuning Transformers                        |
+| 10:30-11:30  | Open slot for stuff                            |
 | 11:30-12:00  | Lunch                                          |
 | 12:00-12:45  | Assignment Idea Pitch                          |
 | 13:00-13:20  | Outlook / Wrapping up                          |
