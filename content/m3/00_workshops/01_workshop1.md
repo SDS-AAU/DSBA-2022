@@ -18,11 +18,12 @@ We will be looking at LSTMs and financial forecasting. There will be also space 
 | Time        | Activity                 | Material |
 |-------------|--------------------------|----------|
 | 9:50-10.50  | Recap ANN                | [Notebook](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_W1_ann_AirBnb.ipynb) |
-| 11:00-12:00 | LSTM stock prediction I  | [Notebook](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_LSTM_stock_prediction.ipynb) |
-| 12:00-12:30 | Lunch                    |          |
-| 12:30-13:45 | Assignment Idea Pitch    |          |
-| 13:45-15:10 | LSTM stock prediction II | Notebook |
-
+| 11:00-12:00 | Intro Timeseries Forecasting  | [Notebook](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/courses/ds4b-m1-6-sml/notebooks/s2-sml-timeseries.ipynb) |
+| 12:00-12:30 | Lunch                   |          |
+| 12:30-13:00 | Meet former graduates   |          |
+| 13:00-14:00 | LSTM stock prediction   | [Notebook](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_LSTM_stock_prediction.ipynb) |
+| 14:00-15:00 | Intro Timseries Transformers   | [Notebook](https://colab.research.google.com/github/SDS-AAU/DSBA-2022/blob/master/notebooks/m3_ws_intro_tstf.ipynb) |
+| 15:00-15:10 | Wrapping up the day   |           |
 
 
 <!---
