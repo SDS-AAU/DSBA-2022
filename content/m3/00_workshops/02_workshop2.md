@@ -13,6 +13,7 @@ We will continue exploring different types of transformer models, as well as the
 
 ## Schedule for the day
 
+<<<<<<< HEAD
 | Time         | Activity                                       | Material  |
 |--------------|------------------------------------------------|-----------|
 |  8:00- 9:15  | Huggingface 🤗 Intro                           |           |
@@ -22,6 +23,18 @@ We will continue exploring different types of transformer models, as well as the
 | 11:30-12:00  | Lunch                                          |           |
 | 12:00-12:45  | Assignment Idea Pitch                          |           |
 | 13:00-13:20  | Outlook / Wrapping up                          |           |
+=======
+| Time           | Activity                                         | Material                                                                                                                                              |
+|----------------|--------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| -------------- | ------------------------------------------------ |                                                                                                                                                       |
+| 8:00- 9:15     | Huggingface 🤗 Intro                              |                                                                                                                                                       |
+| 9:30-10:15     | Finetuning Transformers 1                        | [Colab Notebook - Translation](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_HyggeBERT_translation_en_da.ipynb)     |
+|                | Finetuning Transformers 2                        | [Colab Notebook - Sentiments](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_Finetuning_DK_sentiment_analysis.ipynb) |
+| 10:30-11:30    | Semantic Search & Similarity with SBERT          | [Colab Notebook](https://colab.research.google.com/github/SDS-AAU/DSBA-2022/blob/master/notebooks/M3_workshop_sbert.ipynb)                            |
+| 11:30-12:00    | Lunch                                            |                                                                                                                                                       |
+| 12:00-12:45    | Assignment Idea Pitch                            |                                                                                                                                                       |
+| 13:00-13:20    | Outlook / Wrapping up                            |                                                                                                                                                       |
+>>>>>>> d07a20a661a53324f4293628771bca9833e50016
 
 
 <!---
