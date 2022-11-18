@@ -14,7 +14,7 @@ We will continue exploring different types of transformer models, as well as the
 ## Schedule for the day
 
 | Time         | Activity                                       | Material  |
-|--------------|------------------------------------------------|           |
+|--------------|------------------------------------------------|-----------|
 |  8:00- 9:15  | Huggingface 🤗 Intro                           |           |
 |  9:30-10:15  | Finetuning Transformers 1                      | [Colab Notebook - Translation](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_HyggeBERT_translation_en_da.ipynb) |
 |               | Finetuning Transformers 2                     |  [Colab Notebook - Sentiments](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_Finetuning_DK_sentiment_analysis.ipynb) |
