@@ -16,7 +16,8 @@ We will continue exploring different types of transformer models, as well as the
 | Time         | Activity                                       | Material  |
 |--------------|------------------------------------------------|           |
 |  8:00- 9:15  | Huggingface 🤗 Intro                           |           |
-|  9:30-10:15  | Finetuning Transformers                        | [Colab Notebook - Translation](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_HyggeBERT_translation_en_da.ipynb), [Colab Notebook - Sentiments](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_Finetuning_DK_sentiment_analysis.ipynb)|
+|  9:30-10:15  | Finetuning Transformers 1                      | [Colab Notebook - Translation](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_HyggeBERT_translation_en_da.ipynb) |
+|               | Finetuning Transformers 2                     |  [Colab Notebook - Sentiments](https://colab.research.google.com/github/aaubs/ds-master/blob/main/notebooks/M3_Finetuning_DK_sentiment_analysis.ipynb) |
 | 10:30-11:30  | Semantic Search & Similarity with SBERT        | [Colab Notebook](https://colab.research.google.com/github/SDS-AAU/DSBA-2022/blob/master/notebooks/M3_workshop_sbert.ipynb) |
 | 11:30-12:00  | Lunch                                          |           |
 | 12:00-12:45  | Assignment Idea Pitch                          |           |
